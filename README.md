@@ -22,6 +22,6 @@ Adobe InDesign · Photoshop · Illustrator · Canva · WordPress
 
 ## Explore my work approach
 
-[Editorial production & AI evaluation](https://github.com/leonwongok/editorial-ai-portfolio) explains how I approach story fitting and response comparison. The examples are illustrative, not confidential client work or published newspaper pages.
+[Editorial production & AI evaluation](https://github.com/leon-shengming-wang/editorial-ai-portfolio) explains how I approach story fitting and response comparison. The examples are illustrative, not confidential client work or published newspaper pages.
 
 I'm interested in practical editorial tools, AI-assisted workflows, and the connection between content quality and visual design.
